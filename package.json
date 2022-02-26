@@ -1,0 +1,11 @@
+{
+  "name": "postman-mock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "liquid-json": "^0.3.1",
+    "node-fetch": "^3.2.0"
+  }
+}
